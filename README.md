@@ -71,6 +71,10 @@ Ninja Cat:
 
 ![POST Ninja Cat](gifz/cat-backflip.gif)
 
+Exactly:
+
+![POST Ninja Cat](gifz/Fixing_bugs_in_production.gif)
+
 # Memez
 
 So, it was true!:
