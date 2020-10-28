@@ -29,29 +29,22 @@ A. Because it was soda pressing
 ```
 
 ```
-
 Me: "I'm not very hungry, I just want something easy"
 
 Server: "... maybe the chicken strips for £6?"
 
 Me: "... maybe it does, but that doesn't help with my hunger."
-
 ```
 
 ```
-
 A hypnotist once convinced me I was a soft, malleable metal with the atomic number 82.
 
 I'm easily Lead.
-
 ```
 
 ```
-
 Just been on a diabetes awareness website and it asked me if I accept cookies.
-
 Is that a trick question?
-
 ```
 
 ```
@@ -69,6 +62,10 @@ A. Because the parrots eat 'em all.
 Post leg-day in the gym:
 
 ![Post leg-day in the gym](gifz/cats.gif)
+
+GIF Season:
+
+![POST GIF Season](gifz/gif-season.gif)
 
 # Memez
 
