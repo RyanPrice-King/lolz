@@ -67,6 +67,10 @@ GIF Season:
 
 ![POST GIF Season](gifz/gif-season.gif)
 
+Ninja Cat:
+
+![POST Ninja Cat](gifz/cat-backflip.gif)
+
 # Memez
 
 So, it was true!:
@@ -84,6 +88,10 @@ LOL, exactly!
 Nice!
 
 ![Nice!](memes/paperclips.jpg)
+
+Would you?
+
+![Would you?](memes/baby-names.jpg)
 
 # Videoz
 
