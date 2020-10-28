@@ -93,6 +93,14 @@ Would you?
 
 ![Would you?](memes/baby-names.jpg)
 
+Whoops!
+
+![Whoops!](memes/accidental-resignation.jpg)
+
+LOL!
+
+![LOL!](memes/bread.jpg)
+
 # Videoz
 
 Clever Cat!
